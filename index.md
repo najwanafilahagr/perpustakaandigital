@@ -1,7 +1,5 @@
-# Digital Library
+# Digital Library Najwa Nafilah Anggraini_13040124120014
 Selamat Datang di Perpustakaan Digital
-Najwa Nafilah Anggraini
-13040124120014
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 1. [Artikel Implementasi RDA Portugis](ebook/Artikel Implementasi RDA Portugis.pdf) - Diego S. Ragasso dkk (2020)
